@@ -1,0 +1,7 @@
+div#title {
+    background-color: red;
+}
+
+div#event {
+    max-width: 960px;
+}
